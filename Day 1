@@ -1,1 +1,16 @@
+i = 4
+d = 4.0
+s = 'HackerRank '
+
+#Declaring Variables
+
+a = input()
+b = input()
+c = input()
+
+#Default input() data type is string
+
+print(i+int(a))
+print(d+float(b))
+print(s+str(c))
 
